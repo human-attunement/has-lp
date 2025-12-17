@@ -46,3 +46,5 @@ HASは、変化を起こす方法ではない。
 
 > If not now, forget it.  
 > 必要になった時、また見つけてください。
+
+[English](./en/)
