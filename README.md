@@ -1,6 +1,3 @@
-了解。
-そのまま README.md に貼れる形でまとめる。余計なことは書かない。
-
 # HAS Landing Page
 
 Human Attunement System (HAS) のランディングページ用リポジトリです。  
