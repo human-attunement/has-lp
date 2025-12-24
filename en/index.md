@@ -7,8 +7,8 @@ Still, **preserve the structure that allows us to remain where we are, with room
 ## What HAS Is
 
 HAS is not a method for creating change.  
-It is a minimal design that allows what already exists  
-**to remain open, not closed by fear.**
+It is not a way of being itself,  
+but **the minimal structure that preserves the way of being**.
 
 - It does not promise outcomes  
 - It does not present correct answers  
